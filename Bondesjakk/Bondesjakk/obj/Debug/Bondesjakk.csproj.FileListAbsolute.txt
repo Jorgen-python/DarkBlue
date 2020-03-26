@@ -1,0 +1,13 @@
+C:\Users\PowerUpJorgen\source\repos\Bondesjakk\Bondesjakk\bin\Debug\Bondesjakk.exe.config
+C:\Users\PowerUpJorgen\source\repos\Bondesjakk\Bondesjakk\bin\Debug\Bondesjakk.exe
+C:\Users\PowerUpJorgen\source\repos\Bondesjakk\Bondesjakk\bin\Debug\Bondesjakk.pdb
+C:\Users\PowerUpJorgen\source\repos\Bondesjakk\Bondesjakk\obj\Debug\Bondesjakk.csprojAssemblyReference.cache
+C:\Users\PowerUpJorgen\source\repos\Bondesjakk\Bondesjakk\obj\Debug\Bondesjakk.Properties.Resources.resources
+C:\Users\PowerUpJorgen\source\repos\Bondesjakk\Bondesjakk\obj\Debug\Bondesjakk.csproj.GenerateResource.cache
+C:\Users\PowerUpJorgen\source\repos\Bondesjakk\Bondesjakk\obj\Debug\Bondesjakk.csproj.CoreCompileInputs.cache
+C:\Users\PowerUpJorgen\source\repos\Bondesjakk\Bondesjakk\obj\Debug\Bondesjakk.exe
+C:\Users\PowerUpJorgen\source\repos\Bondesjakk\Bondesjakk\obj\Debug\Bondesjakk.pdb
+C:\Users\PowerUpJorgen\source\repos\Bondesjakk\Bondesjakk\obj\Debug\Bondesjakk.frmBondesjakk.resources
+C:\Users\PowerUpJorgen\source\repos\Bondesjakk\Bondesjakk\bin\Debug\MetroFramework.dll
+C:\Users\PowerUpJorgen\source\repos\Bondesjakk\Bondesjakk\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\PowerUpJorgen\source\repos\Bondesjakk\Bondesjakk\obj\Debug\Bondesjakk.csproj.CopyComplete
